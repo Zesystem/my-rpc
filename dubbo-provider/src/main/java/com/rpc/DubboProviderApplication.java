@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * @ClassName DubboConsumerApplication
  * @Description provider服务启动类
- * @Author 戴书博
+ * @Author
  * @Date 2020/3/14 11:46
  * @Version 1.0
  **/
